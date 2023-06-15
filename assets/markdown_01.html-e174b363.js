@@ -1,0 +1,1 @@
+import{_ as a,o,c as r,b as e,d as t}from"./app-4705a9f7.js";const n={},c=e("h1",{id:"markdown-日常写做",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#markdown-日常写做","aria-hidden":"true"},"#"),t(" Markdown 日常写做")],-1),d=[c];function s(_,i){return o(),r("div",null,d)}const l=a(n,[["render",s],["__file","markdown_01.html.vue"]]);export{l as default};
