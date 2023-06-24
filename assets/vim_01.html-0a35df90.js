@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as o}from"./app-3a5c3324.js";const r={},s=e("h1",{id:"vim-文本编辑器",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#vim-文本编辑器","aria-hidden":"true"},"#"),o(" Vim 文本编辑器")],-1),_=[s];function i(n,d){return a(),c("div",null,_)}const h=t(r,[["render",i],["__file","vim_01.html.vue"]]);export{h as default};
