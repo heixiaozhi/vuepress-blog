@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as a,b as e,d as c}from"./app-4560caf2.js";const o={},r=e("h1",{id:"linux-常用命令",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#linux-常用命令","aria-hidden":"true"},"#"),c(" Linux 常用命令")],-1),s=[r];function _(i,d){return n(),a("div",null,s)}const u=t(o,[["render",_],["__file","linux_01.html.vue"]]);export{u as default};

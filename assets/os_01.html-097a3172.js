@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,b as e,d as s}from"./app-c90a3b25.js";const c={},r=e("h1",{id:"操作系统",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#操作系统","aria-hidden":"true"},"#"),s(" 操作系统")],-1),_=[r];function n(d,i){return a(),o("div",null,_)}const l=t(c,[["render",n],["__file","os_01.html.vue"]]);export{l as default};

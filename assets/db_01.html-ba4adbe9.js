@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as o}from"./app-4705a9f7.js";const r={},s=e("h1",{id:"数据库系统",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#数据库系统","aria-hidden":"true"},"#"),o(" 数据库系统")],-1),_=[s];function d(n,i){return a(),c("div",null,_)}const l=t(r,[["render",d],["__file","db_01.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as a,b as e,d as o}from"./app-208ceb90.js";const r={},s=e("h1",{id:"计算机组成原理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#计算机组成原理","aria-hidden":"true"},"#"),o(" 计算机组成原理")],-1),_=[s];function n(d,i){return t(),a("div",null,_)}const l=c(r,[["render",n],["__file","pcc_01.html.vue"]]);export{l as default};
