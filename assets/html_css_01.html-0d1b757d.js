@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fd779796","path":"/practical/html_css/html_css_01.html","title":"HTML5+CSS3 案例练习","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686472074000,"contributors":[{"name":"zhixiaohei","email":"1852781063@qq.com","commits":1}]},"filePathRelative":"practical/html_css/html_css_01.md"}');export{t as data};
