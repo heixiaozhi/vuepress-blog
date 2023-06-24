@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-05f9fb76","path":"/tools/linux/linux_01.html","title":"Linux 常用命令","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686472074000,"contributors":[{"name":"zhixiaohei","email":"1852781063@qq.com","commits":1}]},"filePathRelative":"tools/linux/linux_01.md"}');export{t as data};

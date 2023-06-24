@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c2ed89fe","path":"/tools/latex/latex_01.html","title":"latex 文档排版","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1686472074000,"contributors":[{"name":"zhixiaohei","email":"1852781063@qq.com","commits":1}]},"filePathRelative":"tools/latex/latex_01.md"}');export{t as data};
