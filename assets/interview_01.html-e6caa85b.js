@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,b as e,d as c}from"./app-7f2fe3f6.js";const n={},o=e("h1",{id:"面试",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#面试","aria-hidden":"true"},"#"),c(" 面试")],-1),s=[o];function _(i,d){return a(),r("div",null,s)}const l=t(n,[["render",_],["__file","interview_01.html.vue"]]);export{l as default};

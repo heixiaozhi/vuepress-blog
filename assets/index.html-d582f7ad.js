@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as t,b as e,d as o}from"./app-7f2fe3f6.js";const c={},n=e("h1",{id:"你好我叫-heixiaozhi",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#你好我叫-heixiaozhi","aria-hidden":"true"},"#"),o(" 你好我叫 Heixiaozhi")],-1),r=[n];function s(d,_){return i(),t("div",null,r)}const l=a(c,[["render",s],["__file","index.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,b as e,d as r}from"./app-7f2fe3f6.js";const s={},o=e("h1",{id:"javascript-小项目",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#javascript-小项目","aria-hidden":"true"},"#"),r(" JavaScript 小项目")],-1),_=[o];function i(n,d){return t(),c("div",null,_)}const l=a(s,[["render",i],["__file","javaScript_01.html.vue"]]);export{l as default};

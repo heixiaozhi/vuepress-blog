@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-af85a54e","path":"/share/writing/writing_01.html","title":"青春随笔","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"share/writing/writing_01.md"}');export{t as data};

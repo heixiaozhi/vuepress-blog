@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,b as e,d as n}from"./app-7f2fe3f6.js";const o={},r=e("h1",{id:"资源导航",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#资源导航","aria-hidden":"true"},"#"),n(" 资源导航")],-1),s=[r];function _(d,i){return t(),c("div",null,s)}const l=a(o,[["render",_],["__file","nav_01.html.vue"]]);export{l as default};

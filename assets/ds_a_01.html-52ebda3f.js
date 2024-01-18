@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as s,b as e,d as _}from"./app-7f2fe3f6.js";const c={},o=e("h1",{id:"数据结构与算法",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#数据结构与算法","aria-hidden":"true"},"#"),_(" 数据结构与算法")],-1),r=[o];function d(n,i){return t(),s("div",null,r)}const l=a(c,[["render",d],["__file","ds_a_01.html.vue"]]);export{l as default};

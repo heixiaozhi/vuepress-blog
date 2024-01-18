@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,b as e,d as c}from"./app-7f2fe3f6.js";const n={},o=e("h1",{id:"青春随笔",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#青春随笔","aria-hidden":"true"},"#"),c(" 青春随笔")],-1),s=[o];function _(i,d){return a(),r("div",null,s)}const l=t(n,[["render",_],["__file","writing_01.html.vue"]]);export{l as default};

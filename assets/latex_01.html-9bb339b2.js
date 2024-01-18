@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as o}from"./app-7f2fe3f6.js";const r={},s=e("h1",{id:"latex-文档排版",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#latex-文档排版","aria-hidden":"true"},"#"),o(" latex 文档排版")],-1),_=[s];function n(l,d){return a(),c("div",null,_)}const h=t(r,[["render",n],["__file","latex_01.html.vue"]]);export{h as default};
